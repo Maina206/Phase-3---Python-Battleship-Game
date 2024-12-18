@@ -1,0 +1,27 @@
+{
+    "Trial": {
+        "wins": 1,
+        "losses": 0
+    },
+    "David": {
+        "wins": 2,
+        "losses": 0
+    },
+    "Alex": {
+        "wins": 0,
+        "losses": 1
+    },
+    "Assad": {
+        "wins": 2,
+        "losses": 0
+    },
+    "Peter": {
+        "wins": 2,
+        "losses": 1
+    },
+    "Computer": {
+        "wins": 2,
+        "losses": 7
+    }
+}
+
